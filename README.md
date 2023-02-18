@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   Get in touch!
   <br/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=219ebc">
+  <a href="https://www.linkedin.com/in/luciano-simoni/" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=219ebc">
+  </a>
 </p>
 
 <p align="center">
