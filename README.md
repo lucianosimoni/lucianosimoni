@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 <p align="center">
   Get in touch!
   <br/>
-  <img src="https://readme-components.vercel.app/api?component=button&text=LinkedIn&fill=ffc0cd&textfill=white">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=219ebc">
 </p>
 
-
 <p align="center">
-   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=264653">
-   <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=2a9d8f">
-   <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=false&fill=e9c46a">
-   <img src="https://readme-components.vercel.app/api?component=logo&logo=firebase&text=false&fill=f4a261">
-   <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=e76f51">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=264653">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=287271">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=false&fill=2A9D8F">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=firebase&text=false&fill=E9C46A">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=EFB366">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=F4A261">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=npm&text=false&fill=EE8959">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=E76F51">
 </p>
 
 <p align="center">
