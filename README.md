@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img src="https://readme-components.vercel.app/api?component=logo&logo=firebase&text=false&fill=E9C46A">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=EFB366">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=F4A261">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=npm&text=false&fill=EE8959">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=E76F51">
 </p>
 
