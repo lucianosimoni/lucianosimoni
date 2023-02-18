@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" >Hello there 🧑‍💻✨</h1>
-<p align="center">I'm a <b>Junior Software Developer</b></p>
-<p align="center">
-  Get in touch!
-  <br/>
-  <a href="https://www.linkedin.com/in/luciano-simoni/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=219ebc">
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=264653">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=287271">
@@ -35,4 +25,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucianosimoni&theme=codeSTACKr">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luciano-simoni/" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=219ebc">
+  </a>
 </p>
