@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=264653">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=287271">
@@ -14,6 +13,7 @@
 <p align="center">🤼 I’m looking to collaborate on <b>OpenAI Projects 🧠</b></p>
 <p align="center">💬 Ask me about <b>Brazil 🇧🇷</b></p>
 <p align="center">📫 How to reach me:</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luciano-simoni/" target="_blank">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=0D1117">
@@ -26,6 +26,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucianosimoni&theme=codeSTACKr&custom_title=Luciano.stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucianosimoni&theme=codeSTACKr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosimoni&langs_count=6&layout=compact&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosimoni&langs_count=6&layout=compact&theme=codeSTACKr&count_private=true">
 </p>
 
