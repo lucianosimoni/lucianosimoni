@@ -8,17 +8,16 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&fill=E76F51">
 </p>
 
-<p align="center">🔭 I’m currently working on <b>Alpaca project 🦙</b></p>
-<p align="center">🌱 I’m currently learning <b>Data visualization 👀</b></p>
-<p align="center">🤼 I’m looking to collaborate on <b>OpenAI Projects 🧠</b></p>
-<p align="center">💬 Ask me about <b>Brazil 🇧🇷</b></p>
-<p align="center">📫 How to reach me:</p>
+<p >🔭 I’m currently working on <b>a LLM project that uses a OpenAI custom trained Model</b></p>
+<p >📖 I’m currently learning <b>Data visualization 📊👀</b></p>
+<p >🤼 I’m looking to collaborate on <b>OpenAI Projects 🧠</b></p>
+<p >📫 How to reach me:</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luciano-simoni/" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/luciano-simoni/">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=false&fill=0D1117">
   </a>
-  <a href="mailto:lucianosimonipersonal@gmail.com" target="_blank">
+  <a href="mailto:lucianosimonipersonal@gmail.com">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&text=false&fill=0D1117">
   </a>
 </p>
@@ -28,4 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucianosimoni&theme=codeSTACKr&langs_count=5">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosimoni&langs_count=6&layout=compact&theme=codeSTACKr&count_private=true">
 </p>
-
