@@ -24,6 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucianosimoni&theme=codeSTACKr&custom_title=Luciano.stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucianosimoni&theme=codeSTACKr&langs_count=5">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucianosimoni&theme=codeSTACKr&langs_count=5&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosimoni&langs_count=6&layout=compact&theme=codeSTACKr&count_private=true">
 </p>
