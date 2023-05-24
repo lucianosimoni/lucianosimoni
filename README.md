@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=264653">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=287271">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=287271">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=2A9D8F">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=firebase&text=true&fill=E9C46A">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&fill=EFB366">
