@@ -8,7 +8,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&fill=E76F51">
 </p>
 
-<p >🔭 I’m currently working on <b>a LLM project that uses a OpenAI custom trained Model</b></p>
+<p >🔭 I’m currently working on <b>a Recipe Recommendation project that uses AI</b></p>
 <p >📖 I’m currently learning <b>MongoDB 🌿</b></p>
 <p >🤼 I’m looking to collaborate on <b>OpenAI Projects 🧠</b></p>
 <p >📫 How to reach me:</p>
