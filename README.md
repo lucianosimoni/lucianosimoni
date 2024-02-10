@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=264653">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=287271">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=2A9D8F">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=firebase&text=true&fill=E9C46A">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&fill=EFB366">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=true&fill=F4A261">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&fill=E76F51">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=EE6352">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=true&fill=08B2E3">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=EFE9F4&textfill=000">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&fill=373737&textfill=EFE9F4">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=true&fill=09C74B">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=484D6D">
 </p>
 
-<p >🔭 I’m currently working on <b>a Natter. Men</b>, a startup focused on men wellbeing</p>
-<p >📖 I’m currently learning <b>React Native 🌿</b></p>
-<p >🤼 I’m looking to collaborate on <b>AI Projects 🧠</b></p>
-<p >📫 How to reach me:</p>
+<p >🔭 I’m currently working on <b>a Restaurant System</b></p>
+<p >📖 I’m currently learning <b>GO 🌿</b></p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luciano-simoni/">
