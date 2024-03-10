@@ -2,12 +2,11 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=EE6352">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=true&fill=08B2E3">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&fill=EFE9F4&textfill=000">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=true&fill=373737&textfill=EFE9F4">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=true&fill=09C74B">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=484D6D">
 </p>
 
-<p >🔭 I’m currently working on <b>a Restaurant System</b></p>
+<p >🔭 I’m currently working on <b>a SaaS</b></p>
 <p >📖 I’m currently learning <b>GO 🌿</b></p>
 
 <p align="left">
